@@ -39,7 +39,7 @@ Aplikacija je razvijena isključivo kao web rješenje, dostupno putem web pregle
 - **Backend:** Node.js, Express.js
 - **Baza podataka:** MySQL
 - **Arhitektura:** REST API
-- **Verzionisanje:** GitHub
+- **Verzionisanje:** GitHub & Google Drive
 
 ---
 
