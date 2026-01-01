@@ -134,12 +134,5 @@ Frontend aplikacija je dostupna u web pregledniku na adresi:
 http://localhost:5173
 ```
 
----
-
-## Napomena
-
-Projekat je razvijen u edukativne svrhe u okviru predmeta **Web Programiranje** na Politehničkom fakultetu Univerziteta u Zenici, školska godina **2025/2026**.
-
----
 
 
