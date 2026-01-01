@@ -11,17 +11,13 @@ Aplikacija je razvijena isključivo kao web rješenje, dostupno putem web pregle
 
 ## Članovi tima
 - **Samedin Tutnjić** – Vođa tima / Backend  
-  Uvezivanje kontrolora, inicijalizacija baze pri prvom pokretanju sistema i implementacija snimanja podataka kod novih korisnika.
-
+ 
 - **Sanjin Samardžić** – Frontend developer  
-  Razvoj React komponenti, izrada korisničkih stranica i navigacije, te implementacija i stilizacija UI komponenti.
 
 - **Kemal Hasanspahić** – Backend / Baza podataka  
-  Povezivanje baze podataka sa backend sistemom, izrada i optimizacija SQL skripti, validacija podataka i implementacija serverske logike.
-
+ 
 - **Aldina Ismić** – Frontend / UI  
-  Izrada korisničkog interfejsa i formi za unos i izmjenu podataka, unapređenje korisničkog iskustva (UX) i testiranje funkcionalnosti sistema.
-
+ 
 ---
 
 ## Korisničke uloge i ovlasti
@@ -146,10 +142,4 @@ Projekat je razvijen u edukativne svrhe u okviru predmeta **Web Programiranje** 
 
 ---
 
-## GitHub repozitorij
 
-Izvorni kod aplikacije dostupan je na GitHub repozitoriju:
-👉 [https://github.com/SamedinTutnjic/UnaFilmDistribucija-WebProjekt](https://github.com/SamedinTutnjic/UnaFilmDistribucija-WebProjekt)
-
-```
-```
